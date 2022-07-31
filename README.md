@@ -1,1 +1,1 @@
-This notebook presents the implementation of basic machine learning algorithms like logistic regression and multilayer perceptron to predict several classes from Fashion MNIST dataset. The summary of results are presented at the end of the notebook.
+This notebook presents the implementation of basic machine learning algorithms like logistic regression and multilayer perceptron to predict several classes from Fashion MNIST dataset. The summary of results is presented at the end of the notebook.
